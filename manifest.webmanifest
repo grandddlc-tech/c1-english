@@ -1,9 +1,9 @@
 {
-  "id": "/road-to-c1/",
+  "id": "/road-to-c1/?v=3",
   "name": "Road to C1",
   "short_name": "Road to C1",
   "description": "A 10-month plan from B2 to C1 with a focus on fluent American English speaking.",
-  "start_url": "/road-to-c1/",
+  "start_url": "/road-to-c1/?source=pwa-v3",
   "scope": "/road-to-c1/",
   "display": "standalone",
   "background_color": "#f6f7fb",
