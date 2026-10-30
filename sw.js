@@ -1,5 +1,5 @@
 /* Road to C1 — service worker: offline app shell, background updates. */
-const VERSION = 'rc1-v3';
+const VERSION = 'c1e-v4';
 const SHELL = [
   './', 'index.html', 'app.js', 'data.js', 'manifest.webmanifest',
   'icons/icon-192.png', 'icons/icon-512.png', 'icons/maskable-192.png', 'icons/maskable-512.png',
